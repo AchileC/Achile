@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 II am a second year bachelor's degree student in computer science.<br>🤝 I’m looking for help with new languages<br>🌱 I’m currently learning React framework
+🔭 I am a second year bachelor's degree student in computer science.<br>🤝 I am looking for a work-study position for September 2025<br>🌱 I'm currently doing an internship at CNAM Angers.
 
 
 ## 🌐 Socials:
